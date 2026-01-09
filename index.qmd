@@ -1,0 +1,20 @@
+---
+title: "Renu Agrawal"
+about:
+  image: MISC/profile-pic.jpg
+  id: hero-heading
+  template: solana
+  links:
+    - icon: mailbox
+      text: agrawalrenuop@gmail.com
+      href: mailto:agrawalrenuop@gmail.com
+    - icon: linkedin
+      text: renuagrawal
+      href: https://www.linkedin.com/in/renu-agrawal-84a6a0194/
+---
+
+## About me
+
+I am an economics graduate from University of Hyderabad (MA in Economics). Currently, I am working as an Consultant in Development of Monitoring and Evaluation Office(DMEO), NITI Aayog. 
+
+I enjoy identifying the interdependence and interconnections between policy initiatives and social realities through data. I like translating data points into stories that reflect real-world impacts across diverse experiences.

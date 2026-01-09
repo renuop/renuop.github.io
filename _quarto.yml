@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  site-url: https://renuop.github.io
+  title: "Renu Agrawal"
+  google-analytics:
+    tracking-id: "G-KDJR8103NH"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "CV"
+        href: MISC/agrawal-cv-dec2025.pdf
+      - href: projects.qmd
+        text: "Projects"
+
+              
+format:
+  html:
+    theme: solana
+    css: styles.css
+    toc: true
+    page-layout: full
+    code-fold: true
+
