@@ -8,4 +8,4 @@ listing:
   categories: true # allows you to sort posts by assigned categories 
 ---
 
-Link- https://substack.com/@renuagrawal/posts
+Link: [Read my posts here](https://substack.com/@renuagrawal/posts)
