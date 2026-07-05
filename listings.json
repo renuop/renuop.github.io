@@ -1,7 +1,12 @@
 [
   {
     "listing": "/projects.html",
-    "items": []
+    "items": [
+      "/projects/CBladakh/index.html",
+      "/projects/IAurbanskill/index.html",
+      "/projects/LFEsocialemotional/index.html",
+      "/projects/UOHresearch/index.html"
+    ]
   },
   {
     "listing": "/blog.html",
