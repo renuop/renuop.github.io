@@ -1,0 +1,28 @@
+---
+title: "The Prebisch-Singer Hypothesis :A Recent South Asian Perspective"
+date: "2022-10-10"
+categories: [International trade, Exports, Imports, Commodity terms of trade, Trade partners]
+description: "Contributed in designing the methodology, articulating the theoretical framework, and drafting the full report."
+image: preview.png
+---
+
+### Abstract
+
+This paper seeks to investigate the relevance of the Prebisch-Singer Hypothesis in the last three decades, focusing on the South Asian countries. After a brief description of the hypothesis itself, the literature on the empirical testing of the theory is reviewed; where there is no clear consensus to be found regarding the matter. The framework for the paper is a simple,observation-based study. Using a suitable indicator for the terms of trade of each country (in this case, the IMF’s Commodity Terms of Trade Index), the trend in the indicator is plotted over the years. Then, using detailed export-import data, the authors find out and compare how closely the trade in these countries takes place according to the Prebisch-Singer doctrine. It is concluded that while there is no evidence to support the hypothesis between rich and poor countries, there is still a similar trading pattern and decline in terms of trade amongst the developing countries themselves. 
+
+### Thesis
+
+```{=html}
+<!DOCTYPE html>
+<html>
+  
+  </head>
+  <body>
+    
+    <object data="prebischsingerhypothesis.pdf" type="application/pdf" width="100%" height="500px">
+      <p>Unable to display PDF file. <a href="prebischsingerhypothesis.pdf">Download</a> instead.</p>
+    </object>
+  </body>
+</html>
+```
+

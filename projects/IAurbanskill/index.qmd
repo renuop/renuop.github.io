@@ -1,0 +1,41 @@
+---
+title: "Evaluation of Centrally Sponsored Schemes in Urban and Skill Development Sectors"
+subtitle: "Quinquennial Evaluation for the Sixteenth Finance Commission"
+date: "2025-07-07"
+categories: [Impact Assessment, Fiscal Federalism, Urban Governance,Skill Development]
+description: "Co-led the evaluation of Centrally Sponsored Schemes with a total outlay of over ₹1 lakh crore, covering urban schemes such as PMAY-Urban, SBM, and AMRUT, and skill including SANKALP and STRIVE."
+image: final1.jpg
+---
+
+*The evaluation aimed to inform decisions on scaling up, restructuring, and rationalizing the existing schemes. Assessment was carried out using the REESI+C+E framework along with causal analysis to examine the relationship between outcomes and impact. A brief snapshot is attached to provide an overview of the schemes and their performance of Urban and Skill sector.*
+
+### Urban Overview
+
+```{=html}
+<!DOCTYPE html>
+<html>
+  
+  </head>
+  <body>
+    
+    <object data="urban.pdf" type="application/pdf" width="100%" height="500px">
+      <p>Unable to display PDF file. <a href="urban.pdf">Download</a> instead.</p>
+    </object>
+  </body>
+</html>
+```
+### Skill Overview
+
+```{=html}
+<!DOCTYPE html>
+<html>
+  
+  </head>
+  <body>
+    
+    <object data="skill.pdf" type="application/pdf" width="100%" height="500px">
+      <p>Unable to display PDF file. <a href="skill.pdf">Download</a> instead.</p>
+    </object>
+  </body>
+</html>
+```
