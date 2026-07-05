@@ -11,10 +11,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - text: "CV"
-        href: MISC/agrawal-cv-dec2025.pdf
       - href: projects.qmd
         text: "Projects"
+      - href: blog.qmd
+        text: "Blog"
+
+      
 
               
 format:
