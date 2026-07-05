@@ -15,11 +15,12 @@ website:
         text: "Projects"
       - href: blog.qmd
         text: "Blog"
+        
 
       
 
               
-format:
+format: 
   html:
     theme: solana
     css: styles.css
